@@ -1,0 +1,5 @@
+Total number of reactions to be processed: 61247
+Total number of reactions after missing reagent/product SMILES removed: 61058
+Total number of reactions after Electrochemical, Electro/Photolysis and Enzymatic reactions removed: 59114
+Number of one step reactions (w/ t & T) with yield given in mass: 960
+Number of one step reactions (w/ t & T) with yield given numerically: 5048

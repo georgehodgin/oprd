@@ -1,0 +1,2 @@
+Number of unique reaction types listed: 135
+Number of reactions with a reaction type: 628

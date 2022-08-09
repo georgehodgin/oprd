@@ -1,0 +1,5 @@
+SMILES,Yield,Temp,Time
+BrC1=CC2=C(C=C1)C(=NC=C2)C#N.C[C@@H](CN)CO.[Cs+].[Cs+].[O-]C([O-])=O.c1ccc(cc1)P(c2ccccc2)c3ccc4ccccc4c3c5c(ccc6ccccc56)P(c7ccccc7)c8ccccc8.[Pd].O=C(C=Cc1ccccc1)C=Cc2ccccc2.O=C(C=Cc3ccccc3)C=Cc4ccccc4>>C[C@H](CO)CNC1=CC2=C(C=C1)C(=NC=C2)C#N,76.0,65.0,15
+CC(CN)CO.BrC1=CC2=C(C=C1)C(=NC=C2)C#N.[Cs+].[Cs+].[O-]C([O-])=O.c1ccc(cc1)P(c2ccccc2)c3ccc4ccccc4c3c5c(ccc6ccccc56)P(c7ccccc7)c8ccccc8.[Pd].O=C(C=Cc1ccccc1)C=Cc2ccccc2.O=C(C=Cc3ccccc3)C=Cc4ccccc4>>CC(CO)CNC1=CC2=C(C=C1)C(=NC=C2)C#N,89.0,75.0,3
+CC(CN)CO.BrC1=CC2=C(C=C1)C(=NC=C2)C#N.[Cs+].[Cs+].[O-]C([O-])=O.c1ccc(cc1)P(c2ccccc2)c3ccc4ccccc4c3c5c(ccc6ccccc56)P(c7ccccc7)c8ccccc8.[Pd].O=C(C=Cc1ccccc1)C=Cc2ccccc2.O=C(C=Cc3ccccc3)C=Cc4ccccc4>>CC(CO)CNC1=CC2=C(C=C1)C(=NC=C2)C#N.CC(CO)CN(C1=CC2=CC=NC(C#N)=C2C=C1)C1=CC=C2C(C=CN=C2C#N)=C1,72.3,85.0,17
+CCOC(=O)C1CCNCC1.CN1C2=C(C=CC=C2)N=C1C1=CC=CC(Br)=C1.[Pd++].CC([O-])=O.CC([O-])=O.[Cs+].[Cs+].[O-]C([O-])=O.c1ccc(cc1)P(c2ccccc2)c3ccc4ccccc4c3c5c(ccc6ccccc56)P(c7ccccc7)c8ccccc8>>CCOC(=O)C1CCN(CC1)C1=CC=CC(=C1)C1=NC2=CC=CC=C2N1C,77.0,100.0,3

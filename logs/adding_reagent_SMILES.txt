@@ -1,0 +1,9 @@
+Total number of unique reagents to convert to SMILES: 795
+Total number of reagents converted by cirpy: 547
+Total number of reagents converted by pubchempy: 45
+Total number of unsuccessful reagents: 203
+Total number of unsuccessful reagents in the useful reactions dataset: 147
+Total number of reactions with unsuccessful reagents: 681
+Number of reactions which dont have additional reagents: 492
+Number of reactions which have additional reagents: 4556
+

@@ -1,0 +1,593 @@
+,Reagent Name,SMILES
+0,pyridinium hydrobromide perbromide,C1=CC=[NH+]C=C1.Br[Br-]Br
+1,sodium tert-amylate,CCC(C)(C)[O-].[Na+]
+2,"N,N,N,N,-tetramethylethylenediamine",CN(C)CCN(C)C
+3,tert-butyl XPhos,CC(C)C1=CC(=C(C(=C1)C(C)C)C2=CC=CC=C2P(C(C)(C)C)C(C)(C)C)C(C)C
+4,catacxium A,CCCCP(C12CC3CC(C1)CC(C3)C2)C45CC6CC(C4)CC(C6)C5
+5,(1R)-(-)-(10-camphorsulfonyl)oxaziridine,CC1(C2CCC13CS(=O)(=O)N4C3(C2)O4)C
+6,"1,1'-bis-(diphenylphosphino)ferrocene",[CH-]1C=CC(=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.[CH-]1C=CC(=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.[Fe+2]
+7,TaniaPhos,CN(C)C(C1CCCC1P(C2=CC=CC=C2)C3=CC=CC=C3)C4=CC=CC=C4P(C5=CC=CC=C5)C6=CC=CC=C6.C1CCCC1.[Fe]
+8,Selectfluor,[B-](F)(F)(F)F.[B-](F)(F)(F)F.C1C[N+]2(CC[N+]1(CC2)CCl)F
+9,"(R)-(-)-4,12-bis(diphenylphosphino)[2.2]paracyclophane(1,5-cyclooctadiene)rhodium(I) tetrafluoroborate",[B-](F)(F)(F)F.C1CC=CCCC=C1.C1CC2=C(C=C(CCC3=C(C=C1C=C3)P(C4=CC=CC=C4)C5=CC=CC=C5)C=C2)P(C6=CC=CC=C6)C7=CC=CC=C7.[Rh]
+10,(1S)-(+)-(10-camphorsulfonyl)oxaziridine,CC1(C2CCC13CS(=O)(=O)N4C3(C2)O4)C
+11,Dess-Martin periodane,CC(=O)OI1(C2=CC=CC=C2C(=O)O1)(OC(=O)C)OC(=O)C
+12,copper(ll) bromide,[Cu].Br.Br
+13,1-dodecylthiol,CCCCCCCCCCCCS
+14,XPhos,CC(C)C1=CC(=C(C(=C1)C(C)C)C2=CC=CC=C2P(C3CCCCC3)C4CCCCC4)C(C)C
+15,"(1,1'-bis(diphenylphosphino)ferrocene)palladium(II) dichloride",[CH-]1C=CC=C1P(C2=CC=CC=C2)C3=CC=CC=C3.[CH-]1C=CC=C1P(C2=CC=CC=C2)C3=CC=CC=C3.Cl[Pd]Cl.[Fe+2]
+16,sec.-butyllithium,[Li+].CC[CH-]C
+17,potassium osmate,[O-][Os](=O)(=O)[O-].[K+].[K+]
+18,sodium hypobromide,[O-]Br.[Na+]
+19,tetrabutylammomium bromide,CCCC[N+](CCCC)(CCCC)CCCC.[Br-]
+20,TPGS-750-M,CC1=C(C(=C(C2=C1OC(CC2)(C)CCCC(C)CCCC(C)CCCC(C)C)C)OC(=O)CCC(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC)C
+21,"(1,5-cyclooctadiene)(methoxy)iridium(I) dimer",C[OH2+].C[OH2+].C1CC=CCCC=C1.C1CC=CCCC=C1.[Ir].[Ir]
+22,boron trifluoride-tetrahydrofuran complex,[B-]([O+]1CCCC1)(F)(F)F
+23,diethylazodicarboxylate,CCOC(=O)N=NC(=O)OCC
+24,rhodium (II) octanoate dimer,CCCCCCCC(=O)O.CCCCCCCC(=O)O.CCCCCCCC(=O)O.CCCCCCCC(=O)O.[Rh].[Rh]
+25,"bis(1,5-cyclooctadiene)nickel (0)",C1CC=CCCC=C1.C1CC=CCCC=C1.[Ni]
+26,bovine serum albumin,C(C(F)(F)F)(C(F)(F)F)(F)F
+27,tetra-N-butylammonium tribromide,CCCC[N+](CCCC)(CCCC)CCCC.Br[Br-]Br
+28,Et3SiD,CC[SiH](CC)CC
+29,Lawessons reagent,COC1=CC=C(C=C1)P2(=S)SP(=S)(S2)C3=CC=C(C=C3)OC
+30,triethylamine tris(hydrogen fluoride),CCN(CC)CC.F.F.F
+31,ammonium molibdate,[NH4+].O.[O-2].[Mo]
+32,tris-(dibenzylideneacetone)dipalladium(0),C1=CC=C(C=C1)C=CC(=O)C=CC2=CC=CC=C2.C1=CC=C(C=C1)C=CC(=O)C=CC2=CC=CC=C2.C1=CC=C(C=C1)C=CC(=O)C=CC2=CC=CC=C2.[Pd].[Pd]
+33,johnphos,CC(C)(C)P(C1=CC=CC=C1C2=CC=CC=C2)C(C)(C)C
+34,bis(tri-t-butylphosphine)palladium(0),CC(C)(C)P(C(C)(C)C)C(C)(C)C.CC(C)(C)P(C(C)(C)C)C(C)(C)C.[Pd]
+35,"bis(1,5-cyclooctadiene)diiridium(I) dichloride",C1CC=CCCC=C1.C1CC=CCCC=C1.[Cl-].[Cl-].[Ir].[Ir]
+36,tetrahydroxydiboron,B(B(O)O)(O)O
+37,"1,1'-bis(diisopropylphosphino)ferrocene",CC(C)P([C]1[CH][CH][CH][CH]1)C(C)C.CC(C)P([C]1[CH][CH][CH][CH]1)C(C)C.[Fe]
+38,potassium tert-butylate,CC(C)(C)[O-].[K+]
+39,9-azabicyclo[3.3.1]nonane N-oxyl,C1CC2CCCC(C1)N2O
+40,"N,O-bis-(trimethylsilyl)-acetamide",CC(=N[Si](C)(C)C)O[Si](C)(C)C
+41,palladium/alumina,[Pd]
+42,"1-chloromethyl-4-fluoro-1,4-diazoniabicyclo[2.2.2]octanebis(tetrafluoroborate)",[B-](F)(F)(F)F.[B-](F)(F)(F)F.C1C[N+]2(CC[N+]1(CC2)CCl)F
+43,DBDMH,CC1(C(=O)N(C(=O)N1Br)Br)C
+44,dichloro(pentamethylcyclopentadienyl)rhodium (III) dimer,CC1C(C(C(C1C)C)C)C.CC1C(C(C(C1C)C)C)C.Cl[Rh]Cl.Cl[Rh]Cl
+45,acetic acid,CC(O)=O
+46,benzophenone,O=C(c1ccccc1)c2ccccc2
+47,water,O
+48,morpholine,C1COCCN1
+49,sodium tert-pentoxide,[Na+].CCC(C)(C)[O-]
+50,oxalic acid diethyl ester,CCOC(=O)C(=O)OCC
+51,acetophenone,CC(=O)c1ccccc1
+52,triphenyl phosphite,O(P(Oc1ccccc1)Oc2ccccc2)c3ccccc3
+53,potassium hexacyanoferrate(III),[K+].[K+].[K+].[Fe-3](|[C]#N)(|[C]#N)(|[C]#N)(|[C]#N)(|[C]#N)|[C]#N
+54,tetraethylammonium chloride,[Cl-].CC[N+](CC)(CC)CC
+55,N-hydroxyurea,NC(=O)NO
+56,bromobenzene,Brc1ccccc1
+57,magnesium 2-methylpropan-2-olate,[Mg++].CC(C)(C)[O-].CC(C)(C)[O-]
+58,chlorine,ClCl
+59,para-methylphenylmagnesium bromide,[Br-].Cc1ccc([Mg+])cc1
+60,tert-butyl alcohol,CC(C)(C)O
+61,piperidine,C1CCNCC1
+62,p-toluenesulfonyl chloride,Cc1ccc(cc1)[S](Cl)(=O)=O
+63,tetraethoxy orthosilicate,CCOO[Si](OOCC)(OOCC)OOCC
+64,i-propyl nitrite,CC(C)ON=O
+65,2-vinylpyridine,C=Cc1ccccn1
+66,dimethyl sulfoxide,C[S](C)=O
+67,sodium ethanolate,[Na+].CC[O-]
+68,"2,3-dicyano-5,6-dichloro-p-benzoquinone",ClC1=C(Cl)C(=O)C(=C(C#N)C1=O)C#N
+69,toluene-4-sulfonic acid,Cc1ccc(cc1)[S](O)(=O)=O
+70,platinum on carbon,[Pt]
+71,sodium dihydrogen phosphate monohydrate,O.[Na+].O[P](O)([O-])=O
+72,calcium hydroxide,[OH-].[OH-].[Ca++]
+73,lithium hydroxide monohydrate,[7Li+].O.[OH-]
+74,iron(II) chloride,[Cl-].[Cl-].[Fe++]
+75,ammonium sulfate,N.N.O[S](O)(=O)=O
+76,p-benzoquinone,O=C1C=CC(=O)C=C1
+77,cesium fluoride,[F-].[Cs+]
+78,"1-methyl-2,3,4,6,7,8-hexahydro-1H-pyrimido[1,2-a]pyrimidine",CN1CCCN2CCCN=C12
+79,"3,6-di-tert-butyl-9-(2-(diphenylphosphino)phenyl)-9H-carbazole",CC(C)(C)c1ccc2n(c3ccccc3P(c4ccccc4)c5ccccc5)c6ccc(cc6c2c1)C(C)(C)C
+80,N-hydroxyphthalimide,ON1C(=O)c2ccccc2C1=O
+81,tetrachloromethane,ClC(Cl)(Cl)Cl
+82,trifluoroacetic acid,OC(=O)C(F)(F)F
+83,sodium hydrogencarbonate,[Na+].OC([O-])=O
+84,sodium periodate,[Na+].[O-][I](=O)(=O)=O
+85,"allyl(1,3-bis(2,6-diisopropyl-4-(3-((3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl)oxy)propyl)phenyl)-imidazol-2-ylidene)palladium(II) chloride",CC(C)c1cc(CCCOCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)cc(C(C)C)c1N2C=CN(C2=[Pd--](Cl)CC=C)c3c(cc(CCCOCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)cc3C(C)C)C(C)C
+86,cobalt(II) chloride,[Cl-].[Cl-].[Co++]
+87,di(n-butyl)tin oxide,CCCC[Sn](=O)CCCC
+88,chromium dichloride,[Cl-].[Cl-].[Cr++]
+89,DavePhos,CN(C)c1ccccc1c2ccccc2P(C3CCCCC3)C4CCCCC4
+90,Tetrapropylammonium chloride,[Cl-].CCC[N+](CCC)(CCC)CCC
+91,phosphoric acid,O[P](O)(O)=O
+92,1-methyl-pyrrolidin-2-one,CN1CCCC1=O
+93,diisopropyl-carbodiimide,CC(C)N=C=NC(C)C
+94,benzylamine hydrochloride,Cl.NCc1ccccc1
+95,magnesium,[Mg]
+96,Methyl isobutyl carbinol,CCCC(C)CO
+97,bis[2-(diphenylphosphino)phenyl] ether,O(c1ccccc1P(c2ccccc2)c3ccccc3)c4ccccc4P(c5ccccc5)c6ccccc6
+98,acetyl chloride,CC(Cl)=O
+99,aluminium,[Al]
+100,4-methoxy-N-(4-nitrobenzylidene)aniline,COc1ccc(cc1)N=Cc2ccc(cc2)[N+]([O-])=O
+101,ammonium salicylate,N.OC(=O)c1ccccc1O
+102,9-(2-(dicyclohexylphosphino)phenyl)-9H-carbazole,C1CCC(CC1)P(C2CCCCC2)c3ccccc3n4c5ccccc5c6ccccc46
+103,"dicyclohexyl-(2',6'-dimethoxybiphenyl-2-yl)-phosphane",COc1cccc(OC)c1c2ccccc2P(C3CCCCC3)C4CCCCC4
+104,potassium fluoride,[F-].[K+]
+105,chlorotriisopropylsilane,CC(C)[Si](Cl)(C(C)C)C(C)C
+106,copper dichloride,[Cl-].[Cl-].[Cu++]
+107,tris-(o-tolyl)phosphine,Cc1ccccc1P(c2ccccc2C)c3ccccc3C
+108,methanesulfonic acid,C[S](O)(=O)=O
+109,[4-(benzylideneamino)phenyl]methanol,OCc1ccc(cc1)N=Cc2ccccc2
+110,succinic acid,OC(=O)CCC(O)=O
+111,"1-hydroxy-pyrrolidine-2,5-dione",ON1C(=O)CCC1=O
+112,3-chloro-benzenecarboperoxoic acid,OOC(=O)c1cccc(Cl)c1
+113,"(3aR)-1-methyl-3,3-diphenyl-tetrahydro-pyrrolo[1,2-c][1,3,2]oxazaborole",CB1OC([C@H]2CCCN12)(c3ccccc3)c4ccccc4
+114,oleum,O[S](O)(=O)=O
+115,"N,N-diethylaniline borane",B.CCN(CC)c1ccccc1
+116,methanol,CO
+117,iron,[Fe]
+118,pyridine N-oxide,[O-][n+]1ccccc1
+119,"1,3-dimethyl-2-imidazolidinone",CN1CCN(C)C1=O
+120,succinic acid anhydride,O=C1CCC(=O)O1
+121,"1,10-Phenanthroline",c1cnc2c(c1)ccc3cccnc23
+122,urea hydrogen peroxide adduct,NC(N)=O.OO
+123,pyridine hydrochloride,[H+].[Cl-].c1ccncc1
+124,sodium iodide,[Na+].[I-]
+125,sodium hypochlorite,[Na+].[O-]Cl
+126,tin(IV) chloride,[Cl]|[Sn](|[Cl])(|[Cl])|[Cl]
+127,Diphenylphosphinic chloride,Cl[P](=O)(c1ccccc1)c2ccccc2
+128,3-Methylpyridine,Cc1cccnc1
+129,dibromo sulfoxide,Br[S](Br)=O
+130,tetraethylammonium bromide,[Br-].CC[N+](CC)(CC)CC
+131,zinc(II) perchlorate,[Zn++].[O-][Cl](=O)(=O)=O.[O-][Cl](=O)(=O)=O
+132,1H-imidazole,[nH]1ccnc1
+133,methyl tributylammonium chloride,[Cl-].CCCC[N+](C)(CCCC)CCCC
+134,ISOPROPYLAMIDE,CC(C)[NH-]
+135,hydroquinone,Oc1ccc(O)cc1
+136,"1-dodecyl-3-methylimidazolium bis(2,4,4-trimethylpentyl)phosphinate",CCCCCCCCCCCC[n+]1ccn(C)c1.CC(CC(C)(C)C)C[P]([O-])(=O)CC(C)CC(C)(C)C
+137,2-iodopyridine,Ic1ccccn1
+138,"N-ethoxycarbonyl-2-ethoxy-1,2-dihydroquinoline",CCOC1C=Cc2ccccc2N1C(=O)OCC
+139,tris(trimethylsilyl)amine,C[Si](C)(C)N([Si](C)(C)C)[Si](C)(C)C
+140,isopropylamine,CC(C)N
+141,tris-(trimethylsilyl)silane,C[Si](C)(C)[SiH]([Si](C)(C)C)[Si](C)(C)C
+142,boron trichloride,ClB(Cl)Cl
+143,ammonia,N
+144,2-hydroxy-pyridine N-oxide,Oc1cccc[n+]1[O-]
+145,trifluoromethylsulfonic anhydride,FC(F)(F)[S](=O)(=O)O[S](=O)(=O)C(F)(F)F
+146,phosphorus pentachloride,Cl[P](Cl)(Cl)(Cl)Cl
+147,4-methyl-morpholine,CN1CCOCC1
+148,dipyridinium dichromate,[O-][Cr](=O)(=O)O[Cr]([O-])(=O)=O.c1cc[nH+]cc1.c2cc[nH+]cc2
+149,2-Methoxynaphthalene,COc1ccc2ccccc2c1
+150,thiophenol,Sc1ccccc1
+151,"N,N-dimethyl-formamide",CN(C)C=O
+152,zinc(II) chloride,[Cl-].[Cl-].[Zn++]
+153,toluene,Cc1ccccc1
+154,phosphorous acid trimethyl ester,COP(OC)OC
+155,triethanolamine,OCCN(CCO)CCO
+156,benzotriazol-1-yloxyl-tris-(pyrrolidino)-phosphonium hexafluorophosphate,F[P-](F)(F)(F)(F)F.C1CCN(C1)[P+](On2nnc3ccccc23)(N4CCCC4)N5CCCC5
+157,trichloroisocyanuric acid,ClN1C(=O)N(Cl)C(=O)N(Cl)C1=O
+158,sodium triacetoxy borohydride,[Na+].CC(=O)O[BH-](OC(C)=O)OC(C)=O
+159,hydroxylamine-O-sulfonic acid,NO[S](O)(=O)=O
+160,magnesium sulfate,[Mg++].[O-][S]([O-])(=O)=O
+161,manganese(IV) oxide,O=[Mn]=O
+162,sodium dithionite,[Na+].[Na+].[O-][S](=O)[S]([O-])=O
+163,lithium borohydride,[Li+].[BH4-]
+164,potassium nitrate,[K+].[O-][N+]([O-])=O
+165,valeric acid,CCCCC(O)=O
+166,hydrogen,[H]
+167,potassium acetate,[K+].CC([O-])=O
+168,tetrahydrofuran,C1CCOC1
+169,sodium t-butanolate,[Na+].CC(C)(C)[O-]
+170,triethylamine hydrochloride,[H+].[Cl-].CCN(CC)CC
+171,"O-(benzotriazol-1-yl)-N,N,N',N'-tetramethyluronium tetrafluoroborate",CN(C)C(On1nnc2ccccc12)=[N+](C)C.F[B-](F)(F)F
+172,copper diacetate,[Cu++].CC([O-])=O.CC([O-])=O
+173,sodium phosphate dibasic dihydrate,[Na+].[Na+].O[P]([O-])([O-])=O
+174,sulfolane,O=[S]1(=O)CCCC1
+175,2-methyl-but-2-ene,CC=C(C)C
+176,2-(Dimethylamino)pyridine,CN(C)c1ccccn1
+177,tetrabutylammonium trifluoromethylsulfonate,CCCC[N+](CCCC)(CCCC)CCCC.[O-][S](=O)(=O)C(F)(F)F
+178,crithmene,CC(C)C1=CCC(=CC1)C
+179,sodium pentanolate,[Na+].CCCCC[O-]
+180,dirhodium tetraacetate,[Rh+3].[Rh+3].CC([O-])=O.CC([O-])=O.CC([O-])=O.CC([O-])=O
+181,pivaloyl chloride,CC(C)(C)C(Cl)=O
+182,N-methylcyclohexylamine,CNC1CCCCC1
+183,oxalyl dichloride,ClC(=O)C(Cl)=O
+184,"4,4'-di-tert-butylbiphenyl",CC(C)(C)c1ccc(cc1)c2ccc(cc2)C(C)(C)C
+185,trimethylsilylazide,C[Si](C)(C)N=[N+]=[N-]
+186,magnesium chloride,[Mg++].[Cl-].[Cl-]
+187,potassium iodide,[K+].[I-]
+188,caesium carbonate,[Cs+].[Cs+].[O-]C([O-])=O
+189,(1R)-(6-hydroxyquinolin-4-yl)(8-vinylquinuclidin-2-yl)methyl benzoate,Oc1ccc2nccc([C@@H](OC(=O)c3ccccc3)C4CC5CCN4CC5C=C)c2c1
+190,2-Picolinic acid,OC(=O)c1ccccn1
+191,methylmagnesium chloride,[CH3-]|[Mg++].[Cl-]
+192,isobutylamine,CC(C)CN
+193,alumina,O=[Al]O[Al]=O
+194,hydrogenchloride,Cl
+195,"N-[(1S,2S)-2-amino-1,2-diphenylethyl]-4-methylbenzenesulfonamide",Cc1ccc(cc1)[S](=O)(=O)N[C@H]([C@@H](N)c2ccccc2)c3ccccc3
+196,potassium dihydrogenphosphate,[K+].O[P](O)([O-])=O
+197,trimethylsilyl bromide,C[Si](C)(C)Br
+198,sodium dihydrogenphosphate dihydrate,O.O.[Na+].O[P](O)([O-])=O
+199,sodium sulfite,[Na+].[Na+].[O-][S]([O-])=O
+200,2-picoline borane complex,B.Cc1ccccn1
+201,magnesium(II) perchlorate,[Mg++].[O-][Cl](=O)(=O)=O.[O-][Cl](=O)(=O)=O
+202,sodium hydrogen sulfide monohydrate,O.[Na].S
+203,lithium aluminium tetrahydride,[H-].[H-].[H-].[H-].[Li+].[Al+3]
+204,dicyclohexyl-carbodiimide,C1CCC(CC1)N=C=NC2CCCCC2
+205,"2,4,6-tripropyl-1,3,5,2,4,6-trioxatriphosphinane-2,4,6-trioxide",CCC[P]1(=O)O[P](=O)(CCC)O[P](=O)(CCC)O1
+206,Iodine monochloride,ClI
+207,sodium nitrite,[Na+].[O-]N=O
+208,lithium diisopropyl amide,[Li+].CC(C)[N-]C(C)C
+209,Pyridine hydrobromide,[H+].[Br-].c1ccncc1
+210,phosphorus pentoxide,O=[P]12O[P]3(=O)O[P](=O)(O1)O[P](=O)(O2)O3
+211,"N,N-diethyl-N-isopropylamine",CCN(CC)C(C)C
+212,potassium bromide,[K+].[Br-]
+213,Methanesulfonic anhydride,C[S](=O)(=O)O[S](C)(=O)=O
+214,bis(tri-tert-butylphosphine)palladium(0),[Pd].CC(C)(C)P(C(C)(C)C)C(C)(C)C.CC(C)(C)P(C(C)(C)C)C(C)(C)C
+215,"6,6'-[[3,3',5,5'-tetrakis(1,1-dimethylethyl)-[1,1'-biphenyl]-2,2'-diyl]bis(oxy)]bis-dibenzo [d,f][1,3,2]-dioxaphosphepine",CC(C)(C)c1cc(c(O[p]2oc3ccccc3c4ccccc4o2)c(c1)C(C)(C)C)c5cc(cc(c5O[p]6oc7ccccc7c8ccccc8o6)C(C)(C)C)C(C)(C)C
+216,methylaluminum dichloride,[Cl-].[Cl-].C[Al++]
+217,DL-methionine,CSCCC(N)C(O)=O
+218,propylene glycol,CC(O)CO
+219,"1,3-dimethyl-3,4,5,6-tetrahydro-2(1H)-pyrimidinone",CN1CCCN(C)C1=O
+220,diisopropylamine,CC(C)NC(C)C
+221,tetrakis(triphenylphosphine) palladium(0),[Pd].c1ccc(cc1)P(c2ccccc2)c3ccccc3.c4ccc(cc4)P(c5ccccc5)c6ccccc6.c7ccc(cc7)P(c8ccccc8)c9ccccc9.c%10ccc(cc%10)P(c%11ccccc%11)c%12ccccc%12
+222,calcium borohydride,[BH4-].[BH4-].[Ca++]
+223,sodium chlorite,[Na+].[O-][Cl]=O
+224,magnesium bromide ethyl etherate,[Mg++].[Br-].[Br-].CCOCC
+225,15-crown-5,C1COCCOCCOCCOCCO1
+226,phosgene,ClC(Cl)=O
+227,sulfur trioxide pyridine complex,O=[S](=O)=O.c1ccncc1
+228,cyclohexylmagnesium bromide,[Br-].[Mg+]C1CCCCC1
+229,tetra(n-butyl)ammonium hydrogensulfate,CCCC[N+](CCCC)(CCCC)CCCC.O[S]([O-])(=O)=O
+230,lithium tetrafluoroborate,[Li+].F[B-](F)(F)F
+231,ethylene dibromide,BrCCBr
+232,sodium carbonate decahydrate,O.O.O.O.O.O.O.O.O.O.[Na+].[Na+].[O-]C([O-])=O
+233,isopropylmagnesium bromide,[Br-].CC(C)[Mg+]
+234,Acetyl bromide,CC(Br)=O
+235,methylamine,CN
+236,"2,2'-[1,2-ethanediylbis(oxy)]bisethanol",OCCOCCOCCO
+237,"N,N-dimethyl-aniline",CN(C)c1ccccc1
+238,copper,[Cu]
+239,"N,N,N-trimethylbenzenemethanaminium dichloroiodate",C[N+](C)(C)Cc1ccccc1.Cl[I](=O)=O.Cl[I](=O)=O
+240,triphenylphosphine,c1ccc(cc1)P(c2ccccc2)c3ccccc3
+241,formic acid,OC=O
+242,peracetic acid,CC(=O)OO
+243,N-methyl-N-phenylformamide,CN(C=O)c1ccccc1
+244,"4-[(R)-[(2R,4R,5S)-5-ethyl-1-azabicyclo[2.2.2]octan-2-yl]-(6-methoxy-4-quinolinyl)methoxy]-1-[(R)-[(2R,4S,5R)-5-ethyl-1-azabicyclo[2.2.2]octan-2-yl]-(6-methoxy-4-quinolinyl)methoxy]phthalazine",CC[C@@H]1CN2CC[C@@H]1C[C@@H]2[C@H](Oc3nnc(O[C@@H]([C@H]4C[C@@H]5CCN4C[C@@H]5CC)c6ccnc7ccc(OC)cc67)c8ccccc38)c9ccnc%10ccc(OC)cc9%10
+245,trimethylamine hydrochloride,[H+].[Cl-].CN(C)C
+246,"N-ethyl-N,N-diisopropylamine",CCN(C(C)C)C(C)C
+247,N-iodo-succinimide,IN1C(=O)CCC1=O
+248,"borane N,N-diethylaniline complex",[B].CCN(CC)c1ccccc1
+249,nickel(II) nitrate hexahydrate,O.O.O.O.O.O.[Ni++].[O-][N+]([O-])=O.[O-][N](=O)=O
+250,chlorosulfonic acid,O[S](Cl)(=O)=O
+251,1-chloro-1-(dimethylamino)-2-methyl-1-propene,CN(C)C(Cl)=C(C)C
+252,HATU,CN(C)C(=[O+]n1nnc2cccnc12)N(C)C.F[P-](F)(F)(F)(F)F
+253,isobutyric Acid,CC(C)C(O)=O
+254,palladium diacetate,[Pd++].CC([O-])=O.CC([O-])=O
+255,nitro acetate,CC(=O)O[N+]([O-])=O
+256,N-(benzenesulfonyl)-3-phenyloxaziridine,O=[S](=O)(N1OC1c2ccccc2)c3ccccc3
+257,"4,4'-Dimethoxy-2,2'-bipyridin",COc1ccnc(c1)c2cc(OC)ccn2
+258,cyclohexene,C1CCC=CC1
+259,aluminum (III) chloride,[Al+3].[Cl-].[Cl-].[Cl-]
+260,Iron(III) nitrate nonahydrate,O.O.O.O.O.O.O.O.O.[Fe+3].[O-][N+]([O-])=O.[O-][N+]([O-])=O.[O-][N](=O)=O
+261,lithium chloride,[Li+].[Cl-]
+262,calcium oxide,O=[Ca]
+263,"2,2'-azobis(isobutyronitrile)",CC(C)(N=NC(C)(C)C#N)C#N
+264,mercaptoacetic acid,OC(=O)CS
+265,"1,1,1,3,3,3-hexamethyl-disilazane",C[Si](C)(C)N[Si](C)(C)C
+266,lithium bromide,[Li+].[Br-]
+267,2-fluoropyridine,Fc1ccccn1
+268,acetonitrile,CC#N
+269,[carbonylchlorohydrido{bis[2-(diphenylphosphinomethyl)ethyl]amino}ethylamino] ruthenium(II),ClC(N(CCCP(c1ccccc1)c2ccccc2)CCCP(c3ccccc3)c4ccccc4)C(N[Ru+])=C=O
+270,N-chloro-succinimide,ClN1C(=O)CCC1=O
+271,sodium bis(2-methoxyethoxy)aluminium dihydride,[H-].[H-].[Na+].COCCO[Al+]OCCOC
+272,hydroxylamine,NO
+273,zinc dibromide,[Zn++].[Br-].[Br-]
+274,tributylphosphine,CCCCP(CCCC)CCCC
+275,copper(I) thiophene-2-carboxylate,[Cu+].[O-]C(=O)c1sccc1
+276,[bis(acetoxy)iodo]benzene,CC(=O)O[I](OC(C)=O)c1ccccc1
+277,Trimethyl borate,COB(OC)OC
+278,pyrrolidine,C1CCNC1
+279,"Tris(3,6-dioxaheptyl)amine",COCCOCCN(CCOCCOC)CCOCCOC
+280,copper(I) bromide,[Cu+].[Br-]
+281,ammonium molybdate tetrahydrate,N.N.N.N.N.N.O.O.O.O.O[Mo](O)(=O)=O.O[Mo](O)(=O)=O.O[Mo](O)(=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O
+282,Methyltriphenylphosphonium bromide,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3
+283,"N,N,N',N'-tetramethyl-1,8-diaminonaphthalene",CN(C)c1cccc2cccc(N(C)C)c12
+284,"1,3,4,6,7,8-hexahydro-2H-pyrimido[1,2-a]pyrimidine",C1CNC2=NCCCN2C1
+285,potassium 2-ethylhexanoate,[K+].CCCCC(CC)C([O-])=O
+286,triethylamine,CCN(CC)CC
+287,tetrabutyl-ammonium chloride,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC
+288,isopentyl nitrite,CC(C)CCON=O
+289,barium(II) hydroxide,[OH-].[OH-].[Ba++]
+290,di-isopropyl azodicarboxylate,CC(C)OC(=O)N=NC(=O)OC(C)C
+291,calcium propionate,[Ca++].CCC([O-])=O.CCC([O-])=O
+292,sodium 2-ethylhexanoic acid,[Na].CCCCC(CC)C(O)=O
+293,n-hexyllithium,[Li+].CCCCC[CH2-]
+294,potassium hydroxide,[OH-].[K+]
+295,platinum(IV) oxide,O=[Pt]=O
+296,styrene,C=Cc1ccccc1
+297,"sodium 2,2,2-trifluoroacetate",[Na+].[O-]C(=O)C(F)(F)F
+298,2-Ethylhexanoic acid,CCCCC(CC)C(O)=O
+299,hydrazine hydrate,O.NN
+300,phosphonic acid diethyl ester,CCO[P+](=O)OCC
+301,selenium,[Se]
+302,silver nitrate,[Ag+].[O-][N+]([O-])=O
+303,"O-(N-succinimidyl)-N,N,N',N'-tetramethyluronium tetrafluoroborate",CN(C)C(=[O+]N1C(=O)CCC1=O)N(C)C.F[B-](F)(F)F
+304,N-dodecylpyridinium chloride,[Cl-].CCCCCCCCCCCC[n+]1ccccc1
+305,diatomaceous earth,O=[Si]=O
+306,ammonium cerium (IV) nitrate,[NH4+].[Ce+4].[O-][N+]([O-])=O.[O-][N+]([O-])=O.[O-][N+]([O-])=O.[O-][N+]([O-])=O.[O-][N+]([O-])=O
+307,1-nitro-3-methylbutane,CC(C)CC[N+]([O-])=O
+308,lithium tert-butoxide,[Li+].CC(C)(C)[O-]
+309,titanium(IV) tetraethanolate,[Ti+4].CC[O-].CC[O-].CC[O-].CC[O-]
+310,palladium,[Pd]
+311,triisobutylaluminum,CC(C)C[Al](CC(C)C)CC(C)C
+312,potassium 2-methylbutan-2-olate,[K+].CCC(C)(C)[O-]
+313,diphenyl phosphoryl azide,[N-]=[N+]=N[P](=O)(Oc1ccccc1)Oc2ccccc2
+314,titanium tetrachloride,[Cl-].[Cl-].[Cl-].[Cl-].[Ti+4]
+315,N-Methyldicyclohexylamine,CN(C1CCCCC1)C2CCCCC2
+316,silver fluoride,[F-].[Ag+]
+317,"1,4-diisocyanatobenzene",O=C=Nc1ccc(cc1)N=C=O
+318,cesium acetate,[Cs+].CC([O-])=O
+319,D-Prolin,OC(=O)[C@H]1CCCN1
+320,boron trifluoride diethyl etherate,CC[O+](CC)[B-](F)(F)F
+321,"dichloro[1,3-bis(2-methylphenyl)-2-imidazolidinylidene](benzylidene) (tricyclohexylphosphine) ruthenium(II)",[Ru++].Cc1ccccc1N2CCN(c3ccccc3C)C2=C4C(Cl)CCCC4(Cl)[P](=Cc5ccccc5)(C6CCCCC6)C7CCCCC7
+322,ammonium formate,[NH4+].[O-]C=O
+323,pyridinium chlorochromate,[Cl-][Cr](=O)(=O)=O.[H+].c1ccncc1
+324,tetrabutylammonium nitrate,CCCC[N+](CCCC)(CCCC)CCCC.[O-][N+]([O-])=O
+325,L-Cysteine,NC(CS)C(O)=O
+326,dextrose monohydrate,O.OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O
+327,sodium formate,[Na+].[O-]C=O
+328,trimethyl orthoformate,COC(OC)OC
+329,isopropylmagnesium chloride,[Cl-].CC(C)[Mg+]
+330,N-butylamine,CCCCN
+331,copper(II) bis(trifluoromethanesulfonate),[Cu++].[O-][S](=O)(=O)C(F)(F)F.[O-][S](=O)(=O)C(F)(F)F
+332,phosphorus tribromide,BrP(Br)Br
+333,trimethylsulfoxonium iodide,[I-].C[S+](C)(C)=O
+334,"1,2-bis(diphenylphosphino)ethane nickel(II) chloride",Cl[Ni]Cl.C(CP(c1ccccc1)c2ccccc2)P(c3ccccc3)c4ccccc4
+335,fluorine,FF
+336,"2,2'-bis-(diphenylphosphino)-1,1'-binaphthyl",c1ccc(cc1)P(c2ccccc2)c3ccc4ccccc4c3c5c(ccc6ccccc56)P(c7ccccc7)c8ccccc8
+337,ethyl cyanoglyoxylate-2-oxime,CCOC(=O)\C(=N\O)C#N
+338,"1,3-Dimethoxybenzene",COc1cccc(OC)c1
+339,glyoxal trimer dihydrate,O.O.OC1OC2OC(O)C(O)OC2OC1O
+340,ammonium hydroxide,[NH4+].[OH-]
+341,"O-(1H-benzotriazol-1-yl)-N,N,N',N'-tetramethyluronium hexafluorophosphate",CN(C)C(On1nnc2ccccc12)=[N+](C)C.F[P-](F)(F)(F)(F)F
+342,tetra-n-butylphosphonium hydroxide,[OH-].CCCC[P+](CCCC)(CCCC)CCCC
+343,chromium(III) chloride hexahydrate,O.O.O.O.O.O.[Cl-].[Cl-].[Cl-].[Cr+3]
+344,gold(I) chloride,[Cl-].[Au+]
+345,zinc,[Zn]
+346,selenium(IV) oxide,O=[Se]=O
+347,tetra-(n-butyl)ammonium iodide,[I-].CCCC[N+](CCCC)(CCCC)CCCC
+348,di(succinimido) carbonate,O=C1CCC(=O)N1OC(=O)ON2C(=O)CCC2=O
+349,benzylamine,NCc1ccccc1
+350,"2-azatricyclo[3.3.1.13,7]decan-2-ol",ON1C2CC3CC(C2)CC1C3
+351,phosphorus(V) oxybromide,Br[P](Br)(Br)=O
+352,trichlorophosphate,Cl[P](Cl)(Cl)=O
+353,tetrabutoxytitanium,[Ti+4].CCCC[O-].CCCC[O-].CCCC[O-].CCCC[O-]
+354,pyridinium p-toluenesulfonate,Cc1ccc(cc1)[S]([O-])(=O)=O.c2cc[nH+]cc2
+355,"(R)-(+)-3,3-diphenyl-1-o-tolyl-tetrahydropyrrolo-(1,2-c)(1,3,2)oxazaborole-1,1,1-trifluoro-N-((trifluoromethyl)-sulfonyl)methanesulfonamide",Cc1ccccc1B2OC([C@H]3CCCN23)(c4ccccc4)c5ccccc5.FC(F)(F)[S](=O)(=O)N[S](=O)(=O)C(F)(F)F
+356,thionyl chloride,Cl[S](Cl)=O
+357,4-acetamidobenzenesulfonyl azide,CC(=O)Nc1ccc(cc1)[S](=O)(=O)N=[N+]=[N-]
+358,sodium monochloroacetic acid,[Na].OC(=O)CCl
+359,copper(I) oxide,[OH2--].[Cu+].[Cu+]
+360,cyclohexylmagnesiumchloride,[Cl-].[Mg+]C1CCCCC1
+361,diisobutylaluminium hydride,CC(C)C[Al]CC(C)C
+362,tetraphosphorus decasulfide,S=[P]12S[P]3(=S)S[P](=S)(S1)S[P](=S)(S2)S3
+363,"chloro(1,3-bis(2,6-di-i-propylphenyl)imidazol-2-ylidene)gold(I)",CC(C)c1cccc(C(C)C)c1N2C=CN(C2=[Au--]Cl)c3c(cccc3C(C)C)C(C)C
+364,tetraethylammonium iodide,[I-].CC[N+](CC)(CC)CC
+365,ammonium paramolybdate tetrahydrate,[NH4+].O.[O--].[Mo]
+366,potassium hydrogencarbonate,[K+].OC([O-])=O
+367,ethylamine,CCN
+368,chloro-trimethyl-silane,C[Si](C)(C)Cl
+369,sodium dithionite dihydrate,O.O.[Na+].[Na+].[O-][S](=O)[S]([O-])=O
+370,hydrazine,NN
+371,Di-sec-butylamin,CCC(C)NC(C)CC
+372,di-tert-butyl(cyclohexyl)phosphine,CC(C)(C)P(C1CCCCC1)C(C)(C)C
+373,sodium sulfide,[Na+].[Na+].[SH-]
+374,potassium hydrogensulfate,[K+].O[S]([O-])(=O)=O
+375,"2,6-dimethylpyridine",Cc1cccc(C)n1
+376,sodium hydrogensulfite,[Na+].O[S]([O-])=O
+377,trimethylsilyl trifluoroacetate,C[Si](C)(C)OC(=O)C(F)(F)F
+378,lithium hydroxide,[Li+].[OH-]
+379,di(2H-imidazol-2-yl)methanone,O=C(C1N=CC=N1)C2N=CC=N2
+380,sulfur,S
+381,potassium tribromide,[K+].[Br].[Br].[Br]
+382,water-d2,O([2H])[2H]
+383,calcium chloride,[Cl-].[Cl-].[Ca++]
+384,ammonium chloride,[NH4+].[Cl-]
+385,magnesium bromide,[Mg++].[Br-].[Br-]
+386,copper(II) oxide,O=[Cu]
+387,lithium iodide monohydrate,[Li+].O.[I-]
+388,nitric acid,O[N+]([O-])=O
+389,sodium permanganate,O.[Na+]|[O-][Mn](=O)(=O)=O
+390,tert.-butylnitrite,CC(C)(C)ON=O
+391,"1,3-bis-(diphenylphosphino)propane",C(CP(c1ccccc1)c2ccccc2)CP(c3ccccc3)c4ccccc4
+392,aluminum oxide,O=[Al]O[Al]=O
+393,sodium tungstate,[Na+].[Na+].[O-][W]([O-])(=O)=O
+394,carbon monoxide,[C-]#[O+]
+395,Cumene hydroperoxide,CC(C)(OO)c1ccccc1
+396,trifuran-2-yl-phosphane,o1cccc1P(c2occc2)c3occc3
+397,4-methylmorpholine N-oxide,C[N+]1([O-])CCOCC1
+398,dichloro-acetic acid,OC(=O)C(Cl)Cl
+399,ozone,O=[O]=O
+400,n-butyllithium,[Li]CCCC
+401,sodium cyanoborohydride,[B+3].[H-].[H-].[H-].[Na+].[C-]#N
+402,D-glucose,OCC1OC(O)C(O)C(O)C1O
+403,copper phthalocyanine,[Cu]1N2C3=NC4=NC(=Nc5n1c(N=C6N=C(N=C2c7ccccc37)c8ccccc68)c9ccccc59)c%10ccccc4%10
+404,silver carbonate,[Ag++].[O-]C([O-])=O
+405,citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O
+406,Nonafluorobutanesulfonyl fluoride,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)[S](F)(=O)=O
+407,1-methyl-piperazine,CN1CCNCC1
+408,ruphos,CCO[P](=S)(OCC)SC1OCCOC1S[P](=S)(OCC)OCC
+409,ethanol,CCO
+410,bromine,[Br]
+411,calcium carbonate,[Ca++].[O-]C([O-])=O
+412,"alpha,alpha,alpha-trifluorotoluene",FC(F)(F)c1ccccc1
+413,sodium hydroxide,[OH-].[Na+]
+414,benzotriazol-1-ol,On1nnc2ccccc12
+415,sodium hexamethyldisilazane,[Na].CN([SiH](C)C)[Si](C)(C)C
+416,"2-chloro-4,6-dimethoxy-1 ,3,5-triazine",COc1nc(Cl)nc(OC)n1
+417,tri-tert-butyl phosphine,CC(C)(C)P(C(C)(C)C)C(C)(C)C
+418,sodium phosphate dibasic dodecahydrate,[Na+].[Na+].O[P]([O-])([O-])=O
+419,molybdenum(V) chloride,[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Mo+5]
+420,diethylmethoxyborane,CCB(CC)OC
+421,"N,N`-dimethylethylenediamine",CNCCNC
+422,sodium nitrate,[Na+].[O-][N+]([O-])=O
+423,magnesium methanolate,[Mg++].C[O-].C[O-]
+424,potassium phosphate,[K+].[O-][P]([O-])([O-])=O
+425,dmap,CN(C)c1ccncc1
+426,thioacetamide,CC(N)=S
+427,iodine,[I]
+428,dibromotriphenylphosphorane,Br[P](Br)(c1ccccc1)(c2ccccc2)c3ccccc3
+429,methyl tri-n-octyl ammonium hydrogen sulfate,CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.O[S]([O-])(=O)=O
+430,"N,N,N',N'-tetramethylguanidine",CN(C)C(=N)N(C)C
+431,sodium tetrahydroborate,[BH4-].[Na+]
+432,titanium(III) chloride,[Cl-].[Cl-].[Cl-].[Ti+3]
+433,tricyclohexylphosphine,C1CCC(CC1)P(C2CCCCC2)C3CCCCC3
+434,ammonium acetate,[NH4+].CC([O-])=O
+435,Aliquat 336,[Cl-].CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC
+436,cerium(III) chloride heptahydrate,O.O.O.O.O.O.O.[Cl-].[Cl-].[Cl-].[Ce+3]
+437,sodium,[Na]
+438,oxygen,O=O
+439,lithium hydride,[Li+].[H-]
+440,methanesulfonyl chloride,C[S](Cl)(=O)=O
+441,N-(4-methoxy benzylidene)-4-methoxyaniline,COc1ccc(cc1)C=Nc2ccc(OC)cc2
+442,1-(2-methoxyphenyl)-N-(4-methoxyphenyl)methanimine,COc1ccc(cc1)N=Cc2ccccc2OC
+443,Benzophenone imine,N=C(c1ccccc1)c2ccccc2
+444,"2,2,6,6-tetramethyl-piperidine",CC1(C)CCCC(C)(C)N1
+445,ruthenium trichloride,[Cl-].[Cl-].[Cl-].[Ru+3]
+446,ammonium tetramethylenedithiocarbamate,N.SC(=S)N1CCCC1
+447,4-methyl-2-pentanone,CC(C)CC(C)=O
+448,ethylmagnesium bromide,[Br-].CC[Mg+]
+449,L-proline,OC(=O)C1CCCN1
+450,"N,N'-bis(trimethylsilyl)urea",C[Si](C)(C)NC(=O)N[Si](C)(C)C
+451,trimethylaluminum,C[Al](C)C
+452,disodium hydrogenphosphate,[Na+].[Na+].O[P]([O-])([O-])=O
+453,triethylaluminum,CC[Al](CC)CC
+454,tetrabutyl ammonium fluoride,[F-].CCCC[N+](CCCC)(CCCC)CCCC
+455,alpha-picoline,Cc1ccccn1
+456,Tetrahydrofurfuryl alcohol,OCC1CCCO1
+457,hydrogen bromide,[H+].[Br-]
+458,acetic anhydride,CC(=O)OC(C)=O
+459,"1,1'-carbonyldiimidazole",O=C(n1ccnc1)n2ccnc2
+460,isobutyl chloroformate,CC(C)COC(Cl)=O
+461,"4,4'-di-tert-butyl-2,2'-bipyridine",CC(C)(C)c1ccnc(c1)c2cc(ccn2)C(C)(C)C
+462,tributyl-amine,CCCCN(CCCC)CCCC
+463,sodium persulfate,[Na+].[Na+].[O-][S](=O)(=O)OO[S]([O-])(=O)=O
+464,cerium(III) chloride,[Cl-].[Cl-].[Cl-].[Ce+3]
+465,tempol,CC1(C)CC(O)CC(C)(C)N1[O]
+466,xanthene,C1c2ccccc2Oc3ccccc13
+467,sodium tri(pivaloyloxy)borohydride,[Na+].CC(C)(C)C(=O)O[BH-](OC(=O)C(C)(C)C)OC(=O)C(C)(C)C
+468,sodium monobenzoxyborohydride,[Na+].[BH3-]OCc1ccccc1
+469,hydroxylamine hydrochloride,[H+].[Cl-].NO
+470,potassium carbonate,[K+].[K+].[O-]C([O-])=O
+471,ascorbic acid,OCC(O)C1OC(=C(O)C1=O)O
+472,sodium sulfate,[Na+].[Na+].[O-][S]([O-])(=O)=O
+473,"N-benzyl-N,N,N-triethylammonium chloride",[Cl-].CC[N+](CC)(CC)Cc1ccccc1
+474,butyl magnesium bromide,[Br-].CCCC[Mg+]
+475,palladium dichloride,[Cl-].[Cl-].[Pd++]
+476,tert-butyl methyl ether,COC(C)(C)C
+477,iodic acid,O[I](=O)=O
+478,dipotassium hydrogenphosphate,[K+].[K+].O[P]([O-])([O-])=O
+479,thiourea,NC(N)=S
+480,sodium hydrogen sulfate,[Na+].O[S]([O-])(=O)=O
+481,sulfuric acid,O[S](O)(=O)=O
+482,1-methyl-1H-imidazole,Cn1ccnc1
+483,methyldiethoxyphosphine,CCOP(C)OCC
+484,sodium disulfite,[Na+].[Na+].[O-][S](=O)O[S]([O-])=O
+485,diethylamino-sulfur trifluoride,CCN(CC)[S](F)(F)F
+486,isopropyl alcohol,CC(C)O
+487,"4-(4,6-dimethoxy-1,3,5-triazin-2-yl)-4-methylmorpholinium chloride",[Cl-].COc1nc(OC)nc(n1)[N+]2(C)CCOCC2
+488,"1-[3,5-bis(trifluoromethyl)phenyl]-3-{(S)[(2S,4S,5R)-5-ethyl-1-aza-bicyclo[2.2.2]oct-2-yl]-(6-methoxy-4-quinolinyl)methyl}thiourea",CC[C@H]1CN2CC[C@H]1C[C@H]2[C@@H](NC(=S)Nc3cc(cc(c3)C(F)(F)F)C(F)(F)F)c4ccnc5ccc(OC)cc45
+489,sulfuryl dichloride,Cl[S](Cl)(=O)=O
+490,di-tert-butyl dicarbonate,CC(C)(C)OC(=O)OC(=O)OC(C)(C)C
+491,(fluorenylmethoxy)carbonyl chloride,ClC(=O)OCc1cccc2c1Cc3ccccc23
+492,methoxybenzene,COc1ccccc1
+493,tert.-butylhydroperoxide,CC(C)(C)OO
+494,trimethylsilyl trifluoromethanesulfonate,C[Si](C)(C)O[S](=O)(=O)C(F)(F)F
+495,copper(II) acetate monohydrate,O.[Cu++].CC([O-])=O.CC([O-])=O
+496,tert.-butyl lithium,[Li]C(C)(C)C
+497,"diethyl 2,6-dimethyl-1,4-dihydropyridine-3,5-dicarboxylate",CCOC(=O)C1=C(C)NC(=C(C1)C(=O)OCC)C
+498,trichlorosilane,Cl[SiH](Cl)Cl
+499,3-methyl-phenol,Cc1cccc(O)c1
+500,diphenyl(methyl)phosphine,CP(c1ccccc1)c2ccccc2
+501,"N-(2,6-dimethylphenyl)-6-hydroxypicolinamide",Cc1cccc(C)c1NC(=O)c2cccc(O)n2
+502,silver sulfate,[Ag++].[O-][S]([O-])(=O)=O
+503,tetramethylammonium fluoride,[F-].C[N+](C)(C)C
+504,formaldehyd,C=O
+505,triethylsilane,CC[SiH](CC)CC
+506,diethylamine,CCNCC
+507,sodium 3-nitrobenzene sulfonate,[Na+].[O-][N+](=O)c1cccc(c1)[S]([O-])(=O)=O
+508,propanoic acid methyl ester,CCC(=O)OC
+509,methyl bisulfate,CO[S](O)(=O)=O
+510,tetrafluoroboric acid,[H+].F[B-](F)(F)F
+511,"(1R,2S)-1-Amino-2-indanol",N[C@H]1[C@@H](O)Cc2ccccc12
+512,pyridine,c1ccncc1
+513,sulfur trioxide,O=[S](=O)=O
+514,thio-xanthene-9-one,O=C1c2ccccc2Sc3ccccc13
+515,tributyltin methoxide,C[O]|[Sn](CCCC)(CCCC)CCCC
+516,NAD,NC(=O)c1ccc[n+](c1)[C@@H]2O[C@H](CO[P](O)(=O)O[P](O)(=O)OC[C@H]3O[C@H]([C@H](O)[C@@H]3O)n4cnc5c(N)ncnc45)[C@@H](O)[C@H]2O
+517,trifluoroacetic anhydride,FC(F)(F)C(=O)OC(=O)C(F)(F)F
+518,ammonium tetrafluoroborate,[NH4+].F[B-](F)(F)F
+519,carbonochloridic acid 1-chloro-ethyl ester,CC(Cl)OC(Cl)=O
+520,dibenzoyl peroxide,O=C(OOC(=O)c1ccccc1)c2ccccc2
+521,dimethylaminoacetic acid,CN(C)CC(O)=O
+522,sodium azide,[Na+].[N-]=[N+]=[N-]
+523,magnesium ethylate,[Mg++].CC[O-].CC[O-]
+524,copper (I) acetate,[Cu+].CC([O-])=O
+525,potassium phosphate monohydrate,O.[K+].[K+].[K+].[O-][P]([O-])([O-])=O
+526,sodium carbonate,[Na+].[Na+].[O-]C([O-])=O
+527,"[2,2]bipyridinyl",c1ccc(nc1)c2ccccn2
+528,n-tetradecanoic acid,CCCCCCCCCCCCCC(O)=O
+529,"4,5,6,7-tetrachloro-2',4',5',7'-tetraiodofluorescein disodium salt",[Na+].[Na+].[O-]C(=O)c1c(Cl)c(Cl)c(Cl)c(Cl)c1C2=C3C=C(I)C(=O)C(=C3Oc4c(I)c([O-])c(I)cc24)I
+530,sodium chloride,[Na+].[Cl-]
+531,sodium hydride,[H-].[Na+]
+532,palladium on activated charcoal,[Pd]
+533,copper(II) sulfate,[Cu++].[O-][S]([O-])(=O)=O
+534,"3-(2,6-dibenzhydryl-4-methylphenyl)-4,5-dimethyl-1-(2,4,6-trimethylbenzyl)imidazolium chloride",[Cl-].Cc1cc(C)c(C[n+]2cn(c(C)c2C)c3c(cc(C)cc3C(c4ccccc4)c5ccccc5)C(c6ccccc6)c7ccccc7)c(C)c1
+535,toluene-4-sulfonic acid hydrazide,Cc1ccc(cc1)[S](=O)(=O)NN
+536,sodium methylate,[Na+].C[O-]
+537,benzoyl chloride,ClC(=O)c1ccccc1
+538,chloroformic acid ethyl ester,CCOC(Cl)=O
+539,phosphorus trichloride,ClP(Cl)Cl
+540,4-phenylpiperidine,C1CC(CCN1)c2ccccc2
+541,"1,3-dibromo-5,5-dimethylimidazolidine-2,4-dione",CC1(C)N(Br)C(=O)N(Br)C1=O
+542,borane,B
+543,2-methyltetrahydrofuran,CC1CCCO1
+544,methyllithium,[Li+].[CH3-]
+545,lithium carbonate,[Li+].[Li+].[O-]C([O-])=O
+546,boric acid,OB(O)O
+547,Triisopropyl borate,CC(C)OB(OC(C)C)OC(C)C
+548,manganese,[Mn]
+549,potassium borohydride,[BH4-].[K+]
+550,ethanolamine,NCCO
+551,zinc perchlorate,[Zn++].[O-][Cl](=O)(=O)=O
+552,"cis-N,N'-dimethyl-1,2-diaminocyclohexane",CN[C@@H]1CCCC[C@@H]1NC
+553,iron(III) chloride,[Cl-].[Cl-].[Cl-].[Fe+3]
+554,N-Bromosuccinimide,BrN1C(=O)CCC1=O
+555,zinc diacetate,[Zn++].CC([O-])=O.CC([O-])=O
+556,potassium sulfate,[K+].[K+].[O-][S]([O-])(=O)=O
+557,lithium acetate,[Li+].CC([O-])=O
+558,"N,N-Dimethylcarbamoyl chloride",CN(C)C(Cl)=O
+559,silica gel,O=[Si]=O
+560,L-lysine,NCCCCC(N)C(O)=O
+561,"1,2-dichloro-ethane",ClCCCl
+562,triethyl borate,CCOB(OCC)OCC
+563,"(R,R)-N,N'-dimethyl-1,2-diaminocyclohexane",CN[C@@H]1CCCC[C@H]1NC
+564,monoaluminum phosphate,[Al+3].[O-][P]([O-])([O-])=O
+565,1-Methylpyrrolidine,CN1CCCC1
+566,8-quinolinol,Oc1cccc2cccnc12
+567,hydrogen fluoride,F
+568,"1,4-diaza-bicyclo[2.2.2]octane",C1CN2CCN1CC2
+569,lithium acetate dihydrate,[Li+].O.O.CC([O-])=O
+570,boron tribromide,BrB(Br)Br
+571,sodium bromide,[Na+].[Br-]
+572,lithium hexamethyldisilazane,[Li+].C[Si](C)(C)[N-][Si](C)(C)C
+573,4-morpholineethanesulfonic acid,O[S](=O)(=O)CCN1CCOCC1
+574,1-deuteriodiphenylmethanol,OC(c1ccccc1)(c2ccccc2)[2H]
+575,Trimethylenediamine,NCCCN
+576,sodium acetate,[Na+].CC([O-])=O
+577,"P,P-dichlorophenylphosphine oxide",Cl[P](Cl)(=O)c1ccccc1
+578,hydroxyammonium sulfate,[NH3+]O.[NH3+]O.[O-][S]([O-])(=O)=O
+579,bis(dibenzylideneacetone)-palladium(0),[Pd].O=C(C=Cc1ccccc1)C=Cc2ccccc2.O=C(C=Cc3ccccc3)C=Cc4ccccc4
+580,tricyclohexylphosphine tetrafluoroborate,F[B-](F)(F)F.C1CCC(CC1)[PH+](C2CCCCC2)C3CCCCC3
+581,sodium hydrogensulfide,[Na].S
+582,sodium tris(acetoxy)borohydride,[Na+].CC(=O)O[BH-](OC(C)=O)OC(C)=O
+583,phthalimide,O=C1NC(=O)c2ccccc12
+584,sodium L-ascorbate,[Na+].OC[C@H](O)C1OC(=O)[C-](O)C1=O
+585,carbon dioxide,O=C=O
+586,"3,6-di-tert-butyl-9-(2-(dicyclohexylphosphanyl)phenyl)-9H-carbazole",CC(C)(C)c1ccc2n(c3ccccc3P(C4CCCCC4)C5CCCCC5)c6ccc(cc6c2c1)C(C)(C)C
+587,palladium(II) hydroxide,[OH-].[OH-].[Pd++]
+588,"1,8-diazabicyclo[5.4.0]undec-7-ene",C1CCN2CCCN=C2CC1
+589,hexamethylenetetramine,C1N2CN3CN1CN(C2)C3
+590,dihydrogen peroxide,OO
+591,diethylzinc,[Zn++](|[CH2-]C)|[CH2-]C
